@@ -95,4 +95,4 @@ The model successfully demonstrates how study time impacts academic performance
 
 ## 📌 Key Insights
 
-Analysis of Hours Studied vs Exam Score shows a positive moderate correlation (r = 0.45), indicating that students who study more hours tend to achieve higher scores. However, other factors may also influence performance, as the correlation is not very strong
+The analysis of students’ performance shows that Exam Score is roughly linearly related to Hours Studied, but the data is noisy. Linear Regression performed similarly to Polynomial Regression (R² ≈ 0.23), indicating that increased model complexity does not improve prediction. The moderate correlation (r = 0.45) confirms a positive linear but noisy relationship.
